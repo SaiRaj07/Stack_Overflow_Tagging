@@ -9,4 +9,6 @@ Stack Overflow is something which every programmer use one way or another. Each 
 Suggest the tags based on the content that was there in the question posted on Stackoverflow.
 
 ### Real World / Business Objectives and Constraints:
-Predict as many tags as possible with high precision and recall. 2) Incorrect tags could impact customer experience on StackOverflow. 3) No strict latency constraints.
+1) Predict as many tags as possible with high precision and recall. 
+2) Incorrect tags could impact customer experience on StackOverflow. 
+3) No strict latency constraints.
